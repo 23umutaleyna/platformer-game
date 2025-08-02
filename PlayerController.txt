@@ -2,7 +2,4 @@ print("merhaba")
 merhaba Abdullah
 berrasu
 samet
-Yusuf
-asdasdasd
-dsfsdfsdfdsf
-sfdsdf
+yusuf
